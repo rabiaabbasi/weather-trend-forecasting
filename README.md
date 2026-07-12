@@ -28,14 +28,6 @@ Then download the dataset from the Kaggle link above and save it as
 `data/GlobalWeatherRepository.csv`, and open up `notebooks/analysis.ipynb` in Jupyter
 or VS Code and run it top to bottom.
 
-## What's in the repo
-weather-trend-forecasting/
-├── data/                       # dataset lives here locally (not tracked in git)
-├── notebooks/
-│   └── analysis.ipynb          # all the actual analysis
-├── requirements.txt
-└── README.md
-
 ## How I approached it
 
 **Cleaning the data** — checked for missing values and filled them in (median for
@@ -55,6 +47,11 @@ so I had a concrete sense of how far off the forecasts were, not just a chart th
 looks reasonable.
 
 ## What I found
-- [Add your actual findings once you've run the notebook — e.g. which two variables
-  turned out to be most correlated, which country/region ran hottest, how accurate
-  the forecast ended up being, anything that surprised you]
+<img width="1006" height="718" alt="image" src="https://github.com/user-attachments/assets/d5d20bec-0151-4460-afc4-a5770278c812" />
+<img width="759" height="609" alt="image" src="https://github.com/user-attachments/assets/7a79137a-756e-42e0-9413-af01cc70e341" />
+<img width="836" height="397" alt="image" src="https://github.com/user-attachments/assets/a8162440-9d73-439f-aecf-963e8c040071" />
+<img width="847" height="394" alt="image" src="https://github.com/user-attachments/assets/971956b8-ee9f-44a9-9df9-95a7494d2632" />
+<img width="800" height="401" alt="image" src="https://github.com/user-attachments/assets/99665d60-7300-433d-b71b-ae85e65ad84c" />
+<img width="827" height="437" alt="image" src="https://github.com/user-attachments/assets/1df31a9a-23cb-45e1-baef-1444c45c4c10" />
+<img width="828" height="439" alt="image" src="https://github.com/user-attachments/assets/cd93be7d-542b-4bd6-b6e2-1c15b9924c6f" />
+
